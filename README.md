@@ -1,5 +1,8 @@
-**CTF Java HackFest 2015**
+# CTF Java HackFest 2015
 
-28-30 Maret 2015
+* <http://ctf.mc-crew.or.id/>
+* [Scoreboard](http://ctf.mc-crew.or.id)
+* 28-30 Maret 2014
+* Indonesia
 
-**Completed Write-ups**
+## Completed write-ups
